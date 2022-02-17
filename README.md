@@ -3,4 +3,4 @@
 
 
 
-This website can be found at: [https://zaida-hammel.github.io/ICS2O-Unit1-02-HTML-hello_world](https://zaida-hammel.github.io/ICS2O-Unit1-02-HTML-hello_world)
+This site can be found at: [https://zaida-hammel.github.io/ICS2O-Unit1-02-HTML-hello_world](https://zaida-hammel.github.io/ICS2O-Unit1-02-HTML-hello_world)
